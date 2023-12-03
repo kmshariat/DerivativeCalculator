@@ -1,2 +1,3 @@
-# DerivativeCalculator
-The numerical methods to find the first derivative and second derivative is discussed in this notebook. Three numeric approach to calculate the first derivative was discussed and two numeric approach to calculate the second derivative was discussed. 
+# A Numerical Method Approach to Find Derivatives
+
+Derivates are generally calculated analytically by hand. But for digital machines, it has been always a complex task to solve these analytically. We can easily solve these derivatives numerically. Although we will have some error, but different methods, to solving can significantly reduce these errors. The numerical methods to find the first derivative and second derivative is discussed in this notebook. Three numeric approach to calculate the first derivative was discussed and two numeric approach to calculate the second derivative was discussed. 
