@@ -4,9 +4,9 @@ Derivates are generally calculated analytically by hand. But for digital machine
 
 ## How to Use
 
-`Step 1` Download the notebook and open it on your local device
-`Step 2` Go to the plots section
-`Step 3` You'll find a section to input the function. 
-`Step 4` Enter the funcion you want to calculate the derivative for
-`Step 5` Run all cells
-`Step 6` You'll find the First Derivative and Second Derivative of your input function
+`Step 1` Download the notebook and open it on your local device <br>
+`Step 2` Go to the plots section <br>
+`Step 3` You'll find a section to input the function. <br>
+`Step 4` Enter the funcion you want to calculate the derivative for <br>
+`Step 5` Run all cells <br>
+`Step 6` You'll find the First Derivative and Second Derivative of your input function <br>
